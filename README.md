@@ -1,7 +1,7 @@
 # blurTrelloTitles
 A very little script to blur the content of [Trello](http://trello.com/) cards for taking screenshots and showing what your board looks like.
 
-![Blurred board sample](blurry_board.png)
+![Blurred board sample](blurry_screenshot.png)
 
 #### Bookmarklet
 
